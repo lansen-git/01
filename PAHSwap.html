@@ -1,5 +1,5 @@
 Introduction and Statement of PAHswap（PAHswap-DEX for opBNB） 
-PAHswap is a centralized exchange on the opBNB blockchain（PAHswap-DEX for opBNB）. 
+PAHswap is a decentralized exchange on the opBNB blockchain（PAHswap-DEX for opBNB）.
 The code is developed based on Uniswap V2. 
 The current functions only include trading and liquidity pooling. 
 You can freely establish a liquidity pool, add or remove liquidity. 
