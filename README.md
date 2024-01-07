@@ -6,7 +6,7 @@ You can freely establish a liquidity pool, add or remove liquidity.
 The advantage is that the trading of opBNB tokens is concise, efficient, and fast, and the exchange does not charge any fees. Free and friendly.
 The transaction scope is limited to countries and regions permitted by laws and policies. Users from other regions are not allowed to use it.
 PAHswap website:https://blc-1318031939.cos-website.ap-singapore.myqcloud.com/#/swap
-or https://pahswap-1318031939.cos-website.ap-singapore.myqcloud.com/#/swap
+or https://blc-opbnb-1318031939.cos-website.ap-singapore.myqcloud.com/#/swap
 PAHswap Factory：0xc6736E04DD0b3DB3D9b4eB936eFABA4D86Fe7c0E
 PAHswap Router：0x4ADe587696AD48f96baa8644269554814E523858
 PAHswap uses EAH as the platform management token.
